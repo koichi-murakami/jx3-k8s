@@ -38,7 +38,7 @@ jxRequirements:
   - key: staging
   - key: production
   ingress:
-    domain: kek.jp
+    domain: 10.43.125.197.nip.io
     externalDNS: false
     kind: ingress
     namespaceSubDomain: -jx.

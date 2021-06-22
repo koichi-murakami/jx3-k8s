@@ -20,4 +20,4 @@ spec:
                 port:
                   number: 80
             path: "/hook"
-      host: hook-jx.kek.jp
+      host: hook-jx.10.43.125.197.nip.io

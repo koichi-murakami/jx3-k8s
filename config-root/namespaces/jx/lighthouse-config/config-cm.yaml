@@ -41,7 +41,7 @@ data:
         - needs-rebase
         repos:
         - koichi-murakami/jx3-k8s
-      target_url: http://lighthouse-jx.kek.jp/merge/status
+      target_url: http://lighthouse-jx.10.43.125.197.nip.io/merge/status
 kind: ConfigMap
 metadata:
   creationTimestamp: null
